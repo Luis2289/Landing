@@ -11,7 +11,7 @@
 
 .contenido {
   height: 10cm;
-  /* background-color: red; */
+ /* background-color: red;  */
   margin: 1em;
 }
 
@@ -19,7 +19,8 @@
   float: left;
   display: flex;
   height: 95%;
-  width: 65%;
+  width: 60%;
+  padding-left: 2cm;
   background-color: #ffffff;
   margin: 0.5em;
 }
@@ -34,7 +35,7 @@
 }
 
 .main{
-  background-color: rebeccapurple;
+  background-color: #F8F9FA;
   width: 90%;
   height: 50cm;
   margin: 0 auto;
@@ -106,7 +107,7 @@
 
 .footer-bottom{
   background: #000;
-  width: 100vw;
+  width: 100%;
   padding: 20px;
   padding-bottom: 40px;
   text-align: center;
